@@ -14,7 +14,7 @@ In this notebook, we write three functions, `kernel()`, `predit()` and `intercep
 
 - `predict(XTest, XTrain, ytrain, alpha, Type = 0, d = 1, sigma = 1)`
 
-  It outputs the label of predicted results <img src="https://latex.codecogs.com/gif.latex?y_{pred} " /> 
+  It outputs the label of predicted results <a href="https://www.codecogs.com/eqnedit.php?latex=y_{pred}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y_{pred}" title="y_{pred}" /></a>
 
   $$
   y_{pred} = 
