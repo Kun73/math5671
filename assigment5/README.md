@@ -14,7 +14,8 @@ In this notebook, we write three functions, `kernel()`, `predit()` and `intercep
 
 - `predict(XTest, XTrain, ytrain, alpha, Type = 0, d = 1, sigma = 1)`
 
-  It outputs the label of predicted results <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+  It outputs the label of predicted results <img src="https://latex.codecogs.com/gif.latex?y_{pred} " /> 
+
   $$
   y_{pred} = 
   \begin{cases}
