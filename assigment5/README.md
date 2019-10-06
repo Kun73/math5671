@@ -10,7 +10,7 @@ In this notebook, we write three functions, `kernel()`, `predit()` and `intercep
 
   `d` : It is the power in polynomial kernel 
 
-  `sigma` : It is the $\sigma$ in Gaussian kernel 
+  `sigma` : It is the <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" /></a> in Gaussian kernel 
 
 - `predict(XTest, XTrain, ytrain, alpha, Type = 0, d = 1, sigma = 1)`
 
