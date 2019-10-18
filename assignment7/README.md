@@ -10,8 +10,8 @@
 
   `r` : the indicating matrix
 
-  `n_lenders`, `n_loans`, `n_features` : the number of dimensions of <a href="https://www.codecogs.com/eqnedit.php?latex=X\in\mathbb{R}^{\text{n_loans}\times\text{n_features}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?X\in\mathbb{R}^{\text{n_loans}\times\text{n_features}}" title="X\in\mathbb{R}^{\text{n_loans}\times\text{n_features}}" /></a>
-  and <a href="https://www.codecogs.com/eqnedit.php?latex=\theta\in\mathbb{R}^{\text{n_lenders}\times\text{n_features}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta\in\mathbb{R}^{\text{n_lenders}\times\text{n_features}}" title="\theta\in\mathbb{R}^{\text{n_lenders}\times\text{n_features}}" /></a>
+  `n_lenders`, `n_loans`, `n_features` : the number of dimensions of <a href="https://www.codecogs.com/eqnedit.php?latex=X\in\mathbb{R}^{nloans\times&space;nfeatures}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?X\in\mathbb{R}^{nloans\times&space;nfeatures}" title="X\in\mathbb{R}^{nloans\times nfeatures}" /></a>
+  and <a href="https://www.codecogs.com/eqnedit.php?latex=\theta\in\mathbb{R}^{nlenders\times&space;nfeatures}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta\in\mathbb{R}^{nlenders\times&space;nfeatures}" title="\theta\in\mathbb{R}^{nlenders\times nfeatures}" /></a>
 
   `lambda` : tuning parameters
 
