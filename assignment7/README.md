@@ -26,3 +26,6 @@
   It returns a tuple `(param, cost_range, convergence, iteration)`. 
 
   `cost_range` contains the cost at each iteration. 
+  
+  # Preview .ipynb
+  You may see [here](https://nbviewer.jupyter.org/github/Kun73/math5671/blob/master/assignment7/Loan%20Recommendation%20Template.ipynb) if it cannot be loaded
